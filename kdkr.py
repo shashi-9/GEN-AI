@@ -4,3 +4,5 @@ def my_sub(a,b):
     print(a-b)
 def my_mult(a,b):
     print(a*b)
+def my_div(a,b):
+    print(a/b)
